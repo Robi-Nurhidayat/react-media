@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "name": "Roberta",
+      "id": 1
+    },
+    {
+      "name": "Adela",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "userId": 2,
+      "title": "Tasty Rubber Chair",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Refined Soft Shoes",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Soft Chair",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Luxurious Metal Chips",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Fresh Hat",
+      "id": 5
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=40822",
+      "id": 2
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=98757",
+      "id": 3
+    }
+  ]
+}
